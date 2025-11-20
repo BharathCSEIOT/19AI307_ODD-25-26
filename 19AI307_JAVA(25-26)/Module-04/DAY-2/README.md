@@ -55,7 +55,7 @@ Program to implement a conditional statement using Java
 Developed by: BHARATH K
 RegisterNumber:  212222110006
 */
-
+```
 ## SOURCE CODE:
 ```
 import java.util.*;
@@ -96,8 +96,11 @@ public class prog {
 ```
 
 ## OUTPUT:
+
 <img width="1161" height="200" alt="image" src="https://github.com/user-attachments/assets/da246116-cf22-4787-b17d-917de4660a7a" />
 
 ## RESULT:
+
 The program successfully demonstrates the **Singleton pattern** by ensuring that all flights use the same Radar Control Tower instance. It registers each flight in order and displays the current total number of flights handled by the tower.
+
 
